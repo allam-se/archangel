@@ -1,6 +1,5 @@
 
-<img src="https://github.com/allam-se/archangel/assets/92534738/52ae9e83-17e4-4108-8174-37750e114f47" width="250"/>
-
+<img src="https://github.com/allam-se/archangel/assets/92534738/9c9d3149-1d39-4d06-94d0-52868a67c9c7" width="250"/>
 
 # archangel 🪽
 

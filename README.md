@@ -1,2 +1,7 @@
-![Untitled](https://github.com/allam-se/archangel/assets/92534738/6f19a69f-ffb6-4632-a805-11748467dc6d)
-A slight variant of blackbird.mattglei.ch inspired by the A-12, the SR-71's older brother. 
+
+<img src="https://github.com/allam-se/archangel/assets/92534738/52ae9e83-17e4-4108-8174-37750e114f47" width="250"/>
+
+
+# archangel
+
+A slight variant of the [blackbird](https://blackbird.mattglei.ch) theme inspired by the A-12, the SR-71's older brother. 

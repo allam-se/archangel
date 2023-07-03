@@ -1,16 +1,7 @@
-# archangel README
 
-## Working with Markdown
+<img src="https://github.com/allam-se/archangel/assets/92534738/52ae9e83-17e4-4108-8174-37750e114f47" width="250"/>
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+# archangel 🪽
 
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+A slight variant of the [blackbird](https://blackbird.mattglei.ch) theme inspired by the SR-71's older brother, the A-12.

@@ -1,0 +1,21 @@
+{
+  "name": "archangel",
+  "displayName": "archangel",
+  "description": "A slight variant of Matt Gleich's blackbird theme inspired by the SR-71's older brother.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "archangel",
+        "uiTheme": "vs-dark",
+        "path": "./themes/archangel-color-theme.json"
+      }
+    ]
+  }
+}

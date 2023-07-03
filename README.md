@@ -4,4 +4,4 @@
 
 # archangel
 
-A slight variant of the [blackbird](https://blackbird.mattglei.ch) theme inspired by the A-12, the SR-71's older brother. 
+A slight variant of the [blackbird](https://blackbird.mattglei.ch) theme inspired by the SR-71's older brother, the A-12.

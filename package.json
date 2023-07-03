@@ -3,7 +3,7 @@
   "displayName": "archangel",
   "description": "A slight variant of Matt Gleich's blackbird theme inspired by the SR-71's older brother, the A-12.",
   "version": "1.0.0",
-  "publisher": "allam-se"
+  "publisher": "allam-se",
   "repository": {
     "type": "git",
     "url": "https://github.com/allam-se/archangel"

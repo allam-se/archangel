@@ -1,7 +1,7 @@
 {
   "name": "archangel",
   "displayName": "archangel",
-  "description": "A slight variant of Matt Gleich's blackbird theme, inspired by the SR-71's older brother.",
+  "description": "A slight variant of Matt Gleich's blackbird theme inspired by the SR-71's older brother, the A-12.",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.79.0"

@@ -34,7 +34,7 @@
         "path": "./themes/archangel-color-theme.json"
       },
       {
-        "label": "archangel → dusk".
+        "label": "archangel → dusk",
 	"uiTheme": "vs-dark",
 	"path": "themes/archangel-dusk-color-theme.json"
       }
